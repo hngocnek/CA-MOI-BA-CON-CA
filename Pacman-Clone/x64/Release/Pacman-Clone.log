@@ -1,0 +1,15 @@
+﻿  Pacman.cpp
+C:\Users\pigpi\Downloads\Pacman-Clone-master\Pacman-Clone-master\Src\Tile.h(12,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Src/Entity/Pacman/Pacman.cpp')
+  
+C:\Users\pigpi\Downloads\Pacman-Clone-master\Pacman-Clone-master\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\pigpi\Downloads\Pacman-Clone-master\Pacman-Clone-master\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244:         with
+C:\Users\pigpi\Downloads\Pacman-Clone-master\Pacman-Clone-master\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244:         [
+C:\Users\pigpi\Downloads\Pacman-Clone-master\Pacman-Clone-master\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244:             T=float
+C:\Users\pigpi\Downloads\Pacman-Clone-master\Pacman-Clone-master\Src\Entity\Pacman\Pacman.cpp(24,28): warning C4244:         ]
+  Generating code
+  1 of 845 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pacman-Clone.vcxproj -> C:\Users\pigpi\Downloads\Pacman-Clone-master\Pacman-Clone-master\x64\Release\Pacman-Clone.exe
